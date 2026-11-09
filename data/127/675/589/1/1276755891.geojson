@@ -69,7 +69,7 @@
         "wk:page":"Aravet"
     },
     "wof:country":"AM",
-    "wof:geomhash":"d9858d68b97866167e9f947105ff507e",
+    "wof:geomhash":"1d4f2f9a633216950c0bdc0ced08da8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     43.77766,
     41.04774000000001
 ],
-  "geometry": {"coordinates":[43.77766,41.04774000000001],"type":"Point"}
+  "geometry": {"coordinates":[43.77766,41.04774],"type":"Point"}
 }

@@ -77,7 +77,7 @@
         "wk:page":"Sadunts"
     },
     "wof:country":"AM",
-    "wof:geomhash":"73e5ac904af0aaf2066afe0566f7fbd3",
+    "wof:geomhash":"7d8945ee88a72669327624fa020f65ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     44.19844000000001,
     40.64686
 ],
-  "geometry": {"coordinates":[44.19844000000001,40.64686],"type":"Point"}
+  "geometry": {"coordinates":[44.19844,40.64686],"type":"Point"}
 }

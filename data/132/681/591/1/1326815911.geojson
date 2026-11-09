@@ -48,7 +48,7 @@
         "wk:page":"Injevar"
     },
     "wof:country":"AM",
-    "wof:geomhash":"1a9cd5b540f68e7a2013a6050920f2b3",
+    "wof:geomhash":"3a738af915775766557f1bd0efe67ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     46.43944000000001,
     39.25583
 ],
-  "geometry": {"coordinates":[46.43944000000001,39.25583],"type":"Point"}
+  "geometry": {"coordinates":[46.43944,39.25583],"type":"Point"}
 }

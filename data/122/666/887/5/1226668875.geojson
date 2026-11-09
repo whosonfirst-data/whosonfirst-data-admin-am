@@ -53,7 +53,7 @@
         "wk:page":"Akhbrak"
     },
     "wof:country":"AM",
-    "wof:geomhash":"8742455238e5f20cd0f7f45463c50161",
+    "wof:geomhash":"42145a9daa87584f9f0821d0db1956c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     44.73524000000001,
     40.50706
 ],
-  "geometry": {"coordinates":[44.73524000000001,40.50706],"type":"Point"}
+  "geometry": {"coordinates":[44.73524,40.50706],"type":"Point"}
 }

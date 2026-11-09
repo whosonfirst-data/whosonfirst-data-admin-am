@@ -89,7 +89,7 @@
         "wk:page":"Nerkin_Karmiraghbyur"
     },
     "wof:country":"AM",
-    "wof:geomhash":"02b2c1c3b6d3e1cd025b111b71adc6e0",
+    "wof:geomhash":"6c44882f95597e5e1d54aa1d23f71aff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,5 +115,5 @@
     45.43794000000001,
     40.94276
 ],
-  "geometry": {"coordinates":[45.43794000000001,40.94276],"type":"Point"}
+  "geometry": {"coordinates":[45.43794,40.94276],"type":"Point"}
 }

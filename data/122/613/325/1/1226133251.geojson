@@ -47,7 +47,7 @@
         "gn:id":11330033
     },
     "wof:country":"AM",
-    "wof:geomhash":"86eb9799dc408012228c7f1a2ae7425b",
+    "wof:geomhash":"d53b459da8bc8cf868d7c99f5e900685",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     46.50409000000001,
     39.07507
 ],
-  "geometry": {"coordinates":[46.50409000000001,39.07507],"type":"Point"}
+  "geometry": {"coordinates":[46.50409,39.07507],"type":"Point"}
 }

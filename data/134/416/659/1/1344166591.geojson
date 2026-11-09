@@ -57,7 +57,7 @@
         "wk:page":"Derek%2C_Armenia"
     },
     "wof:country":"AM",
-    "wof:geomhash":"e0d9d9264bd8d442e13e8e29e9b8a068",
+    "wof:geomhash":"c3d89d3faa2a6720f91068d78671d884",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     44.32398,
     40.69974000000001
 ],
-  "geometry": {"coordinates":[44.32398,40.69974000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.32398,40.69974],"type":"Point"}
 }

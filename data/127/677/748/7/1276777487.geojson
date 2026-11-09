@@ -99,7 +99,7 @@
         "wk:page":"Aruch"
     },
     "wof:country":"AM",
-    "wof:geomhash":"28a687383fd671a9d315f774919d377f",
+    "wof:geomhash":"153151a1a44ce5446226396c6faaa598",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,5 +125,5 @@
     44.07798,
     40.28749000000001
 ],
-  "geometry": {"coordinates":[44.07798,40.28749000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.07798,40.28749],"type":"Point"}
 }

@@ -80,7 +80,7 @@
         "wk:page":"Tretuk"
     },
     "wof:country":"AM",
-    "wof:geomhash":"e2fd479347e8d2c295735273ccf1fd85",
+    "wof:geomhash":"b53a7750e6a75697339267fbb0107f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,5 +106,5 @@
     45.8529,
     40.23889000000001
 ],
-  "geometry": {"coordinates":[45.8529,40.23889000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.8529,40.23889],"type":"Point"}
 }

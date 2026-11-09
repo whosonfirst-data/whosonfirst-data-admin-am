@@ -45,7 +45,7 @@
         "wk:page":"Tsamakaberd"
     },
     "wof:country":"AM",
-    "wof:geomhash":"d30e5f561617efd25c4df32117c0a040",
+    "wof:geomhash":"3b0acb775ea84ebf7dc39695538adf3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     44.98334000000001,
     40.55979
 ],
-  "geometry": {"coordinates":[44.98334000000001,40.55979],"type":"Point"}
+  "geometry": {"coordinates":[44.98334,40.55979],"type":"Point"}
 }

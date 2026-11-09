@@ -51,7 +51,7 @@
         "wk:page":"Poselok_Imeni_Kalinina"
     },
     "wof:country":"AM",
-    "wof:geomhash":"b0ea08f962b1a28ac461861fcba6f87a",
+    "wof:geomhash":"f511324ec230425c3f411ed14fdef717",
     "wof:hierarchy":[
         {
             "country_id":85632773,
@@ -74,5 +74,5 @@
     44.43089000000001,
     40.01018
 ],
-  "geometry": {"coordinates":[44.43089000000001,40.01018],"type":"Point"}
+  "geometry": {"coordinates":[44.43089,40.01018],"type":"Point"}
 }

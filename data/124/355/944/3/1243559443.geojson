@@ -51,7 +51,7 @@
         "wk:page":"Agveran"
     },
     "wof:country":"AM",
-    "wof:geomhash":"d53bc0fbaae450eebe6de825e5c307eb",
+    "wof:geomhash":"3f08a188223e1c97a68c40644f37b44b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     44.59112,
     40.49894000000001
 ],
-  "geometry": {"coordinates":[44.59112,40.49894000000001],"type":"Point"}
+  "geometry": {"coordinates":[44.59112,40.49894],"type":"Point"}
 }

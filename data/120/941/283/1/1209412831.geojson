@@ -72,7 +72,7 @@
         "wk:page":"Teghut%2C_Lori"
     },
     "wof:country":"AM",
-    "wof:geomhash":"760712dabc467c4ca9fb286ba36918e1",
+    "wof:geomhash":"eb3265c6a31d4d2daeb315bb17fb8b82",
     "wof:hierarchy":[
         {
             "country_id":85632773,
@@ -95,5 +95,5 @@
     44.84634000000001,
     41.1151
 ],
-  "geometry": {"coordinates":[44.84634000000001,41.1151],"type":"Point"}
+  "geometry": {"coordinates":[44.84634,41.1151],"type":"Point"}
 }

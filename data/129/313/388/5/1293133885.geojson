@@ -84,7 +84,7 @@
         "wk:page":"Pambak%2C_Gegharkunik"
     },
     "wof:country":"AM",
-    "wof:geomhash":"23ce983e37abf6510400ff483be04835",
+    "wof:geomhash":"297a75f560c1b268f8089d2c1283bf57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     45.5324,
     40.37974000000001
 ],
-  "geometry": {"coordinates":[45.5324,40.37974000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.5324,40.37974],"type":"Point"}
 }

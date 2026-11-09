@@ -75,7 +75,7 @@
         "wk:page":"Nurnus"
     },
     "wof:country":"AM",
-    "wof:geomhash":"c02093e0f9278f7b5267a10dd1ff2c28",
+    "wof:geomhash":"83f29d0755497a6b76670c6446c65097",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     44.60619000000001,
     40.35764
 ],
-  "geometry": {"coordinates":[44.60619000000001,40.35764],"type":"Point"}
+  "geometry": {"coordinates":[44.60619,40.35764],"type":"Point"}
 }

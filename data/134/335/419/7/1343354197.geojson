@@ -130,7 +130,7 @@
         "wk:page":"Tumanyan,_Armenia"
     },
     "wof:country":"AM",
-    "wof:geomhash":"a228819193e603601cb90df34cb58cd5",
+    "wof:geomhash":"8d9fc799df52c5e52373335e308ce854",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,5 +156,5 @@
     44.65584000000001,
     40.9892
 ],
-  "geometry": {"coordinates":[44.65584000000001,40.9892],"type":"Point"}
+  "geometry": {"coordinates":[44.65584,40.9892],"type":"Point"}
 }

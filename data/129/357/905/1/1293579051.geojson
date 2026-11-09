@@ -84,7 +84,7 @@
         "wk:page":"Chinari%2C_Armenia"
     },
     "wof:country":"AM",
-    "wof:geomhash":"ca8e77a2f3807d09c3a42c7c2632eacd",
+    "wof:geomhash":"19512fd1ad5eb3dbc3ad2dc7d6ff7b7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     45.57781,
     40.85469000000001
 ],
-  "geometry": {"coordinates":[45.57781,40.85469000000001],"type":"Point"}
+  "geometry": {"coordinates":[45.57781,40.85469],"type":"Point"}
 }

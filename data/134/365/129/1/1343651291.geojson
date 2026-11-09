@@ -88,7 +88,7 @@
         "wk:page":"Verin_Karmiraghbyur"
     },
     "wof:country":"AM",
-    "wof:geomhash":"a3c5d37260d12884d9c419f89c0e9d41",
+    "wof:geomhash":"fba72b0953f0b5cdb7b930e2d11d2961",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,5 +114,5 @@
     45.44159000000001,
     40.88044
 ],
-  "geometry": {"coordinates":[45.44159000000001,40.88044],"type":"Point"}
+  "geometry": {"coordinates":[45.44159,40.88044],"type":"Point"}
 }

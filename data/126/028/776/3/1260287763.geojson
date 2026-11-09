@@ -47,7 +47,7 @@
         "wk:page":"Zovashen_%28Keshishveran%29%2C_Ararat"
     },
     "wof:country":"AM",
-    "wof:geomhash":"680410144b8f41021c3a6f738c6f0347",
+    "wof:geomhash":"8678717e0c2d9215a0c7a4a4584611f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     45.0,
     39.81667
 ],
-  "geometry": {"coordinates":[45.0,39.81667],"type":"Point"}
+  "geometry": {"coordinates":[45,39.81667],"type":"Point"}
 }

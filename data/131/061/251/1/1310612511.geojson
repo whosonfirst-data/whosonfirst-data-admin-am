@@ -47,7 +47,7 @@
         "wk:page":"Imeni_Dzerzhinskogo%2C_Armenia"
     },
     "wof:country":"AM",
-    "wof:geomhash":"22a0c2fa49a561f63bd3c4ba09b09271",
+    "wof:geomhash":"80b6ba6109c863fc76cca3a3985922bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     44.0,
     40.08333
 ],
-  "geometry": {"coordinates":[44.0,40.08333],"type":"Point"}
+  "geometry": {"coordinates":[44,40.08333],"type":"Point"}
 }

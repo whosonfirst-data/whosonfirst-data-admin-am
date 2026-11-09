@@ -50,7 +50,7 @@
         "wk:page":"Yemazlu"
     },
     "wof:country":"AM",
-    "wof:geomhash":"57cb0aec669b8a26c8b446aaa6aca34d",
+    "wof:geomhash":"428687d76d07e8a0a38c0fba4f3e3873",
     "wof:hierarchy":[
         {
             "country_id":85632773,
@@ -73,5 +73,5 @@
     46.43167,
     39.24639000000001
 ],
-  "geometry": {"coordinates":[46.43167,39.24639000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.43167,39.24639],"type":"Point"}
 }

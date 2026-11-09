@@ -42,7 +42,7 @@
         "wk:page":"Chirchiri"
     },
     "wof:country":"AM",
-    "wof:geomhash":"882833ca8fc6804dd21a78660de118a9",
+    "wof:geomhash":"4a929126e74038f63f54e0cdd459aced",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     45.13417000000001,
     40.8175
 ],
-  "geometry": {"coordinates":[45.13417000000001,40.8175],"type":"Point"}
+  "geometry": {"coordinates":[45.13417,40.8175],"type":"Point"}
 }

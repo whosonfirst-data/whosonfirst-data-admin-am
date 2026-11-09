@@ -79,7 +79,7 @@
         "wk:page":"Uyts"
     },
     "wof:country":"AM",
-    "wof:geomhash":"013c3c4ea86b6f38c8d78d9aed5dde64",
+    "wof:geomhash":"2f2b1f424b71231bf488a7d1e1b9cdc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,5 +105,5 @@
     46.05119000000001,
     39.50709000000001
 ],
-  "geometry": {"coordinates":[46.05119000000001,39.50709000000001],"type":"Point"}
+  "geometry": {"coordinates":[46.05119,39.50709],"type":"Point"}
 }
