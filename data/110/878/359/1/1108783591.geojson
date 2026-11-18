@@ -97,12 +97,6 @@
     "name:wol_x_preferred":[
         "Balag"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5df4\u62c9\u514b\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5df4\u62c9\u514b\u6cb3"
-    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -124,7 +118,7 @@
         }
     ],
     "wof:id":1108783591,
-    "wof:lastmodified":1636495570,
+    "wof:lastmodified":1794999722,
     "wof:name":"Balak",
     "wof:parent_id":85668119,
     "wof:placetype":"localadmin",
