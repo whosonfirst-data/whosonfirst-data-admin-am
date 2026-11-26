@@ -1,0 +1,75 @@
+{
+  "id": 9895008556,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.85409,40.19608,43.85409,40.19608",
+    "geom:latitude":40.19608,
+    "geom:longitude":43.85409,
+    "gn:population":1031,
+    "iso:country":"AM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 823801: name \"Baghramyan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/823801"
+        },
+        {
+            "citation":"GeoNames populated place 823801: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/823801"
+        },
+        {
+            "citation":"GeoNames populated place 823801: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/823801"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108783857 (Baghramyan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773,
+        85668085,
+        102191569,
+        1108783857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823801
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"fc65d7a2016e679ce513e91fd1f777e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783857,
+            "locality_id":9895008556,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":9895008556,
+    "wof:lastmodified":1795735151,
+    "wof:name":"Baghramyan",
+    "wof:parent_id":1108783857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.85409,
+    40.19608,
+    43.85409,
+    40.19608
+],
+  "geometry": {"coordinates":[43.85409,40.19608],"type":"Point"}
+}

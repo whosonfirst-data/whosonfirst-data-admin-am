@@ -1,0 +1,72 @@
+{
+  "id": 9895008570,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.87089,40.9719,44.87089,40.9719",
+    "geom:latitude":40.9719,
+    "geom:longitude":44.87089,
+    "iso:country":"AM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13609260: name \"Dziategh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609260"
+        },
+        {
+            "citation":"GeoNames populated place 13609260: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609260"
+        },
+        {
+            "citation":"GeoNames populated place 13609260: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609260"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85668095 (Tavush), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773,
+        85668095,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609260
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5ff3c4fa9df7cf51f133fcb81312894e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "locality_id":9895008570,
+            "region_id":85668095
+        }
+    ],
+    "wof:id":9895008570,
+    "wof:lastmodified":1795735151,
+    "wof:name":"Dziategh",
+    "wof:parent_id":85668095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.87089,
+    40.9719,
+    44.87089,
+    40.9719
+],
+  "geometry": {"coordinates":[44.87089,40.9719],"type":"Point"}
+}
