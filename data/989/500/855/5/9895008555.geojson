@@ -1,0 +1,75 @@
+{
+  "id": 9895008555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37512,40.45831,44.37512,40.45831",
+    "geom:latitude":40.45831,
+    "geom:longitude":44.37512,
+    "gn:population":520,
+    "iso:country":"AM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 616940: name \"Arayi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/616940"
+        },
+        {
+            "citation":"GeoNames populated place 616940: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/616940"
+        },
+        {
+            "citation":"GeoNames populated place 616940: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/616940"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108782849 (Ara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773,
+        85668083,
+        102191569,
+        1108782849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616940
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"3e8c4ea40741d6014e6612e043dbfeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108782849,
+            "locality_id":9895008555,
+            "region_id":85668083
+        }
+    ],
+    "wof:id":9895008555,
+    "wof:lastmodified":1795735151,
+    "wof:name":"Arayi",
+    "wof:parent_id":1108782849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37512,
+    40.45831,
+    44.37512,
+    40.45831
+],
+  "geometry": {"coordinates":[44.37512,40.45831],"type":"Point"}
+}

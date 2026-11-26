@@ -1,0 +1,74 @@
+{
+  "id": 9895008563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.68048,39.73889,45.68048,39.73889",
+    "geom:latitude":39.73889,
+    "geom:longitude":45.68048,
+    "iso:country":"AM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13157437: name \"Ughedzor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13157437"
+        },
+        {
+            "citation":"GeoNames populated place 13157437: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13157437"
+        },
+        {
+            "citation":"GeoNames populated place 13157437: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13157437"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108783027 (Gndevaz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773,
+        85668123,
+        102191569,
+        1108783027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13157437
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"17c284e978884405a0321b7a3326f06c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783027,
+            "locality_id":9895008563,
+            "region_id":85668123
+        }
+    ],
+    "wof:id":9895008563,
+    "wof:lastmodified":1795735151,
+    "wof:name":"Ughedzor",
+    "wof:parent_id":1108783027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.68048,
+    39.73889,
+    45.68048,
+    39.73889
+],
+  "geometry": {"coordinates":[45.68048,39.73889],"type":"Point"}
+}

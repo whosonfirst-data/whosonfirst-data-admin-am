@@ -1,0 +1,75 @@
+{
+  "id": 9895008558,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.93048,40.08331,43.93048,40.08331",
+    "geom:latitude":40.08331,
+    "geom:longitude":43.93048,
+    "gn:population":1032,
+    "iso:country":"AM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 823804: name \"Hushakert\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/823804"
+        },
+        {
+            "citation":"GeoNames populated place 823804: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/823804"
+        },
+        {
+            "citation":"GeoNames populated place 823804: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/823804"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108783853 (Hushakert), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773,
+        85668085,
+        102191569,
+        1108783853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":823804
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"610c543db0794661dfa5862c0418dd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783853,
+            "locality_id":9895008558,
+            "region_id":85668085
+        }
+    ],
+    "wof:id":9895008558,
+    "wof:lastmodified":1795735151,
+    "wof:name":"Hushakert",
+    "wof:parent_id":1108783853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.93048,
+    40.08331,
+    43.93048,
+    40.08331
+],
+  "geometry": {"coordinates":[43.93048,40.08331],"type":"Point"}
+}

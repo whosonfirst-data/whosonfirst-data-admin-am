@@ -1,0 +1,75 @@
+{
+  "id": 9895008550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.67124,40.58044,44.67124,40.58044",
+    "geom:latitude":40.58044,
+    "geom:longitude":44.67124,
+    "gn:population":753,
+    "iso:country":"AM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 616444: name \"Marmarik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/616444"
+        },
+        {
+            "citation":"GeoNames populated place 616444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/616444"
+        },
+        {
+            "citation":"GeoNames populated place 616444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/616444"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108783545 (Marmarik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632773,
+        85668105,
+        102191569,
+        1108783545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":616444
+    },
+    "wof:country":"AM",
+    "wof:geomhash":"5ea485ca90e83a57096691dcffae37f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632773,
+            "localadmin_id":1108783545,
+            "locality_id":9895008550,
+            "region_id":85668105
+        }
+    ],
+    "wof:id":9895008550,
+    "wof:lastmodified":1795735151,
+    "wof:name":"Marmarik",
+    "wof:parent_id":1108783545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-am",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.67124,
+    40.58044,
+    44.67124,
+    40.58044
+],
+  "geometry": {"coordinates":[44.67124,40.58044],"type":"Point"}
+}
